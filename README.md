@@ -1,10 +1,10 @@
 # Frontend Developer Assessment
 
+This is Coffee Store webapp built using React for Frontend Developer Assessment.
+
 ## Description
 
-This is Coffee Store webapp built using React.
 The app keeps track of coffee ordered; what the balance is for each user; what users have paid for already; and what is still owed.
-
 
 ## Project Structure
 
