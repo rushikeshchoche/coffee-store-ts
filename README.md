@@ -33,7 +33,6 @@ This will spin up coffee-store-be(backend project) on local node server on port 
 
 In the current coffe-store-ts project directory, you can run:
 
-### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
