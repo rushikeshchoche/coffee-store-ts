@@ -1,0 +1,25 @@
+.price {
+  display: flex;
+  flex-direction: row;
+}
+
+.coffeePrice {
+  display: flex;
+  flex-direction: row;
+}
+
+.itemPrice {
+  padding: 5px 12px;
+  border-radius: 20px;
+  background-color: #eeeeee;
+  margin-right: 12px;
+}
+
+.priceDetails {
+  border-bottom: 2px solid #f3f3f4;
+}
+
+.price > div {
+  width: 50%;
+  padding: 10px;
+}
