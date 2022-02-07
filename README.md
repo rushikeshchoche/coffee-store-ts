@@ -22,8 +22,8 @@ The app keeps track of coffee ordered; what the balance is for each user; what u
 │   │   ├── StoreProvider.tsx       # React context provider which stores and calculates payment due
 │   ├── service/                    # contains service to fetch store data
 │   ├── type/                       # data types
-│   ├── app.js                      # This is the root component of the application
-│   ├── index.js                    # ReactDOM.render is called
+│   ├── App.tsx                     # This is the root component of the application
+│   ├── index.tsx                   # ReactDOM.render is called
 ```
 
 ## Please follow below commands to run this project : 
