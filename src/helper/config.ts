@@ -2,7 +2,7 @@ export const isProduction = process.env.NODE_ENV === "production";
 
 const ENV = {
   develop: {
-    apiBaseUrl: "http://localhost:4000/users",
+    apiBaseUrl: "http://localhost:4000/store",
   },
   production: {
     apiBaseUrl: "dummyProdUrl",
